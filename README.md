@@ -3,7 +3,7 @@
 This project is an analysis of fundraising campaigns launched on Kickstarter, with the purpose of identifying trends in successful campaigns in order to inform a strategy for Louise's fundraising efforts for her play, Fever.
 
 ### Introduction ###
-
+---
 Our dataset consists of 4114 online fundraising campaigns across various categories. I began by analyzing comparing segments of the data, identifying and eliminating potential outliers, and honing in on the campaigns most similar to Louise's. In doing so, I have identified four specific recomendations for setting Louise's fundraiser up for success.
 ---
 ### Categorical Trends ###
