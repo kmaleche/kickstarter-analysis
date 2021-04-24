@@ -23,6 +23,7 @@ _Figure 2_
 In order to determine how fundraising goals on Kickstarter affect campaign success, I segmented the data by goal amount, then drilled down to just those fundraisers in the “plays” subcategory (_Figure 2_). I found that almost half of those campaigns (49.7%) were within the goal range of $1,000-$4,999. This means that the data in question is skewed toward the lower end of the goal scale, which ranged from *Less than $1,000* to *Greater than $50,000*. I then plotted a box-and-whisker chart to visualize the distribution of fundraising goal by outcome (_Figure 3_).
 ![Goal Frequency Distribution](https://user-images.githubusercontent.com/82285562/115973497-05816c00-a51b-11eb-9ec1-f193c7f7fa1c.png)
 _Figure 3_
+
 This visualization confirmed that the failed group in particular included outliers with very high goals. Thus, using the 1.5 IQR rule, I was able to set a quantitative boundary and produce _Figure 4_, illustrating that for play fundraisers, the $15,000-$19,999 goal range is the inflection point at which success rates drop below 50%.
 ![Outcomes vs goal 2](https://user-images.githubusercontent.com/82285562/115973487-eda9e800-a51a-11eb-87c1-9b992ee04da0.png)
 _Figure 4_
