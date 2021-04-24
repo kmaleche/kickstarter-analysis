@@ -36,7 +36,7 @@ Additionally, I found the fundraising categories as they were initially exported
 In conclusion, my recommendations are as follows: 
 - Louise shoud launch her fundraising campaign in May, if possible. 
 - She should avoid a launch in the winter months, particularly December.
-- Louise should also consider that lower fundraising goals are associated with greater success rates — For plays in particular, campaigns with budgets under $15,000 are the most successful, so she should not increase her goal amount beyond the budgeted $12,000.
+- Louise should also consider that lower fundraising goals are associated with greater success rates — This is true for plays in particular, so she should not increase her goal amount beyond the budgeted $12,000.
 
 There are certainly limitations of this analysis. In particular, it would be helpful to analyze the results of campaigns across fundraising platforms other than Kickstarted (e.g. GoFundMe, IndieGogo). 
 Additionally, the Kickstarter data did not include campaigns launched after 2017. A lot has changed with regard to digital fundraising in the last 5 years, so I strongly suggest a review of more recent trends.
